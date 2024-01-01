@@ -8,3 +8,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning react.jsx
 - 👯 I’m looking to collaborate on some web developments projects
 - ⚡ Fun fact: the sky is blue because she got the blues out of the sea
+- ⚡ A wise man once said "people who don't have hobby but have interest in everything are the coolest!"
